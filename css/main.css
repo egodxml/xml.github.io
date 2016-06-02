@@ -1,0 +1,180 @@
+
+body {
+	font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 8pt; line-height: 12pt;
+	#font-family: Verdana;
+	#margin: 0;
+}
+table {font-size: 10pt}
+
+table.newsobjsplash {color: #ffffff; font-size: 8pt}
+table.newsobj, table.topicobj, table.calobjtoday {color: #000000; font-size: 8pt}
+
+.help-h1 {
+        font-size: 14pt;
+        color: #912324;
+}
+
+.help-h2 {
+        font-size: 12pt;
+        color: #000000;
+}
+
+.help-h3 {
+        font-size: 10pt;
+        color: #912324;
+        font-weight: bold;
+}
+
+.help-h4 {
+        font-size: 10pt;
+        color: #000000;
+        font-weight: bold;
+}
+
+.help-warning {
+        font-size: 10pt;
+        color: red;
+}
+
+a.newsobj:link, a.newsobj:visited, a.topicobj:link, a.topicobj:visited {color: #ff0000; text-decoration: underline}
+a.newsobj:hover, a.topicobj:hover {color:#888888}
+a.newsobjsplash:link, a.newsobjsplash:visited {color: #ff0000; text-decoration: underline}
+a.newsobjsplash:hover {font-weight:bold;}
+a.topicobjsplash:link, a.topicobjsplash:visited {color: #ff0000; text-decoration: underline}
+a.topicobjsplash:hover {font-weight:bold;}
+td.logintop, td.loginbottom {color: white; font-weight: bold; background-color: #303C86}
+td.login {font-size: 10pt}
+td.login input, td.loginbottom input {
+	border: 1px solid black;
+}
+a.infolink {
+	#font-family: Verdana;
+	#font-size: 9pt;
+	text-decoration: none;
+	color: red;
+	font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; 
+	font-size: 8pt; 
+	line-height: 12pt;
+}
+table.cartobjitemlist { border: 1px #83080D solid; border-collapse: collapse }
+td.cartobjrecord { border: 1px #83080D solid }
+th.cartobjitemheader { background-color: #83080D; color: #ffffff }
+.reservebutton, .soldout, .checkoutbutton { background-color: #83080D; border: 1px solid black; color: white; }
+.soldout {padding: 4px}
+.cartlink { color: #83080D; font-weight: bold; text-decoration: none; }
+.cartlink:hover {text-decoration: underline;}
+div.leftcustloginbox {
+	border: 1px solid black;
+	width: 140;
+	padding: 4px;
+	font-size: 11px;
+}
+input.leftlogin {
+	border: 1px solid black;
+	font-size: 11px;
+	margin-top: 4px;
+}
+input.leftloginbutton {
+	border: 1px solid black;
+	color: white;
+	background-color: #83080d;
+	margin-top: 4px;
+}
+a.leftlogin {
+	color: black;
+	text-decoration: underline;
+}
+a.leftlogin:hover {
+	font-weight: bold;
+}
+input.cartobj, input.checkout, select.cartobj, input.cartobjname {
+	border: 1px solid #83080D;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+input.cartobjname {
+	background-color: #e7e7e7;
+}
+
+table.calobj, td.calobj {
+	border: 1px solid black;
+}
+th.calobj {
+	background-color: #921E1F;
+	color: #ffffff;
+}
+td.calobj {
+	padding: 4px;
+}
+table.calobj {
+	border-collapse: collapse;
+	width: 500px;
+}
+.calobjdate {
+	color: red;
+	font-weight: bold;
+	font-size: 9pt;
+}
+
+.calobjtodaydate {
+	color: red;
+	text-align: center;
+	font-size: 8pt;
+}
+
+td.site_credit {
+	#font-family: Verdana, Helvetica, sans-serif;
+	#font-size: 9pt;
+	font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; 
+	font-size: 8pt; 
+	line-height: 12pt;
+	color: #999999;
+}
+.site_credit a {
+	color: #999999;
+	text-decoration: none;
+}
+.site_credit a:hover {
+	text-decoration: underline;
+}
+a.parish {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	text-decoration: underline;
+}
+table.homenews {
+	border-collapse: collapse;
+}
+td.homenews, td.homenewstop {
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+td.homenews {
+	padding: 10px;
+	font-size: 9pt;
+}
+
+td.content {
+	font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 8pt; line-height: 12pt;
+	#font-family: Verdana, Verdana, Helvetica, sans-serif;
+	color: #333366;
+	#font-size: 10pt;
+	#padding: 10px;
+}
+
+.navigation {
+	padding: 10px;
+}
+.navigation a {
+	color: #921E1F;
+	font-size: 9pt;
+}
+
+div.productindex {
+	width: 184px;
+	overflow: hidden;
+	background-color: #FFFFFF;
+}
